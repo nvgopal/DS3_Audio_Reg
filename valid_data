@@ -1329,7 +1329,6 @@ fname,label,manually_verified,Duration
 3ee056f2.wav,Cough,0,3.86
 3ef05695.wav,Violin_or_fiddle,1,9.32
 3f0c40c0.wav,Writing,0,14.78
-3f13875c.wav,Applause,0,2.98
 3f1e7231.wav,Gunshot_or_gunfire,1,4.24
 3f3b55e7.wav,Applause,0,9.14
 3f3f7481.wav,Bark,0,4.42
@@ -1939,7 +1938,6 @@ fname,label,manually_verified,Duration
 5950780e.wav,Electric_piano,1,24.12
 595a4fba.wav,Electric_piano,1,16.06
 595a7854.wav,Knock,1,6.6
-595c191d.wav,Double_bass,1,2.98
 595c7b54.wav,Laughter,0,21.3
 5964b6ee.wav,Chime,0,13.44
 5966612f.wav,Tearing,0,7.78
@@ -2077,7 +2075,6 @@ fname,label,manually_verified,Duration
 5f597196.wav,Harmonica,0,3.78
 5f59933f.wav,Saxophone,1,11.36
 5f673482.wav,Bass_drum,0,24.02
-5f6e7a2f.wav,Telephone,1,2.98
 5f71ebaa.wav,Writing,0,24.56
 5f73d3c8.wav,Gong,0,6.18
 5f75b9cf.wav,Violin_or_fiddle,1,8.32
@@ -2761,7 +2758,6 @@ fname,label,manually_verified,Duration
 7e88dc0b.wav,Fireworks,0,9.9
 7e902870.wav,Fireworks,0,18.94
 7eab8be1.wav,Acoustic_guitar,0,23.18
-7eb29109.wav,Laughter,0,2.98
 7eb5554e.wav,Bass_drum,0,3.0
 7eb959ec.wav,Clarinet,1,8.52
 7eb9dac0.wav,Violin_or_fiddle,1,7.64
@@ -3164,7 +3160,6 @@ fname,label,manually_verified,Duration
 9133b9de.wav,Burping_or_eructation,0,4.0
 91363087.wav,Burping_or_eructation,0,3.26
 9154e60b.wav,Fart,0,26.64
-91589588.wav,Cello,1,2.98
 915f042e.wav,Snare_drum,0,4.62
 9164250b.wav,Bus,0,14.62
 9168923c.wav,Shatter,1,3.42
@@ -3235,14 +3230,12 @@ fname,label,manually_verified,Duration
 952530cd.wav,Laughter,0,8.12
 952a9bad.wav,Scissors,1,29.9
 954128f1.wav,Acoustic_guitar,0,8.6
-954fb510.wav,Gong,1,2.98
 95526c51.wav,Squeak,0,4.66
 9569d111.wav,Harmonica,0,3.16
 956a932e.wav,Gong,0,16.68
 956e0d7b.wav,Applause,0,16.6
 9578a624.wav,Chime,0,13.86
 957a1c84.wav,Violin_or_fiddle,1,3.7
-958d7d6a.wav,Finger_snapping,0,2.98
 959b54ba.wav,Oboe,0,5.76
 95a241e8.wav,Laughter,0,3.4
 95a54c9a.wav,Clarinet,1,4.24
@@ -4368,7 +4361,6 @@ c8805cbd.wav,Oboe,1,6.92
 c88c6a4b.wav,Flute,1,8.54
 c891e9de.wav,Meow,0,12.18
 c8926980.wav,Applause,0,6.88
-c894da70.wav,Burping_or_eructation,0,2.98
 c8b7e3e0.wav,Tearing,0,8.36
 c8bb8a34.wav,Saxophone,1,5.5
 c8c0280a.wav,Laughter,0,3.52
@@ -4541,7 +4533,6 @@ d0219079.wav,Clarinet,0,6.5
 d02be75c.wav,Squeak,0,8.5
 d038c1e3.wav,Acoustic_guitar,0,4.02
 d039d135.wav,Knock,1,6.54
-d04475f7.wav,Double_bass,0,2.98
 d07b3486.wav,Snare_drum,0,25.4
 d0826760.wav,Violin_or_fiddle,1,12.58
 d085e7da.wav,Laughter,0,6.36
@@ -4877,7 +4868,6 @@ deb2681b.wav,Cello,0,6.86
 dec1d656.wav,Flute,1,10.28
 dec9284d.wav,Squeak,0,6.96
 decca6ad.wav,Microwave_oven,0,15.92
-dee0d5ac.wav,Violin_or_fiddle,1,2.98
 deeacc1c.wav,Laughter,0,3.06
 defcfbdc.wav,Electric_piano,1,24.78
 df003f06.wav,Oboe,0,9.92
@@ -4936,7 +4926,6 @@ e1b35559.wav,Writing,0,27.8
 e1b3664c.wav,Meow,0,27.84
 e1b646bb.wav,Flute,1,9.5
 e1c0fa3e.wav,Gong,0,10.5
-e1c7636a.wav,Bark,0,2.98
 e1ca0934.wav,Meow,1,5.0
 e1d70a45.wav,Fireworks,0,14.42
 e1d91dfc.wav,Tearing,1,6.86
